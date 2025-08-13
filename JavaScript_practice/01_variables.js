@@ -1,6 +1,6 @@
 const accountId =1556678 //final
 let accountEmail="anshul@gmail.com" //currently using*******
-var accountpassword="12345" //scope problem
+var accountpassword="12345" //scope problem (scope=" ")
 accountCity="virindavan" // not good for practice
 let abcd; // default value "undefined" will store
 // accountId=9

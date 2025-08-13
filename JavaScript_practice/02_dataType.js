@@ -1,7 +1,7 @@
-"use strict";
+"use strict";//traet all js code as newer version
 //alert(3+3) // we are using node js not the browser
-console.log(3+3) // code redability shpuld be high
-console.log("hello")
+console.log(3+3) // code redability should be high
+console.log("hello");
 
 let name="anshu"
 let age =30
