@@ -15,7 +15,7 @@ console.log(anotherId)//Symbol(123)
 const heros=["shaktiman", "natraj", "doga"]
 let myObj={
     name: "rama",
-    age:30
+    age:30 
 }
 console.log(heros)
 console.log(myObj)
